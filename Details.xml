@@ -1,0 +1,26 @@
+<?xml version = "1.0"?>
+<catalog>
+	<Exam>
+		<name>Ankit Kumar</name>
+		<Subject>PHP</Subject>
+		<Marks>100</Marks>
+	</Exam>
+
+	<Exam>
+		<name>Ankit Kumar</name>
+		<Subject>Nosql</Subject>
+		<Marks>90</Marks>
+	</Exam>
+
+	<Exam>
+		<name>Ankit Kumar</name>
+		<Subject>Java</Subject>
+		<Marks>95</Marks>
+	</Exam>
+
+	<Exam>
+		<name>Ankit Kumar</name>
+		<Subject>Software Engineering</Subject>
+		<Marks>65</Marks>
+	</Exam>
+</catalog>

@@ -1,0 +1,6 @@
+<?xml version = "1.0"?>
+<foods>
+	<name>French Toast</name>
+	<Price>200</Price>
+	<Calories>229</Calories>
+</foods>
